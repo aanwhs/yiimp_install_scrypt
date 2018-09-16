@@ -4,7 +4,7 @@
 # Fork Author: manfromafar
 # Previous Author: Xavatar
 # Current Author: aanwhs
-# Web: https://aanwhs.github.io/
+# Web: https://aanwhs.github.io
 #
 # Program:
 #   Install yiimp on Ubuntu 16.04 running Nginx, MariaDB, and php7.0.x
