@@ -1,13 +1,8 @@
 # Yiimp_install_scrypt (update July 07, 2018)
 
 
-Discord : https://discord.gg/zcCXjkQ
 
-TUTO Youtube (16.04 - Without SSL) : https://www.youtube.com/watch?v=vdBCw6_cyig
-
-TUTO Youtube (16.04 - With SSL) : https://www.youtube.com/watch?v=fWwGow_i-Vw
-
-Official Yiimp (used in this script for Yiimp Installation): https://github.com/aanwhs/yiimp
+YIIMP (used in this script for YIIMP Installation): https://github.com/aanwhs/yiimp
 
 Install script for yiimp on Ubuntu 17.10 : https://github.com/aanwhs/yiimp_install_scrypt_ubuntu17.10
 
