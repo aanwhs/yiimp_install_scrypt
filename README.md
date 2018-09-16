@@ -1,4 +1,5 @@
-# Yiimp_install_scrypt (update July 07, 2018)
+# Yiimp_install_scrypt
+Updated: September 16, 2018
 
 
 
