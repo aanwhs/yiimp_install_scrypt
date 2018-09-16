@@ -7,11 +7,11 @@ TUTO Youtube (16.04 - Without SSL) : https://www.youtube.com/watch?v=vdBCw6_cyig
 
 TUTO Youtube (16.04 - With SSL) : https://www.youtube.com/watch?v=fWwGow_i-Vw
 
-Official Yiimp (used in this script for Yiimp Installation): https://github.com/tpruvot/yiimp
+Official Yiimp (used in this script for Yiimp Installation): https://github.com/aanwhs/yiimp
 
-Install script for yiimp on Ubuntu 17.10 : https://github.com/xavatar/yiimp_install_scrypt_ubuntu17.10
+Install script for yiimp on Ubuntu 17.10 : https://github.com/aanwhs/yiimp_install_scrypt_ubuntu17.10
 
-Install script for yiimp on Ubuntu 18.04 : https://github.com/xavatar/yiimp_install_scrypt_ubuntu18.04
+Install script for yiimp on Ubuntu 18.04 : https://github.com/aanwhs/yiimp_install_scrypt_ubuntu18.04
 
 
 ***********************************
@@ -25,7 +25,7 @@ Connect on your VPS =>
 - adduser pool sudo
 - su - pool
 - sudo apt-get -y install git
-- git clone https://github.com/xavatar/yiimp_install_scrypt.git
+- git clone https://github.com/aanwhs/yiimp_install_scrypt.git
 - cd yiimp_install_scrypt/
 - sudo bash install.sh (Do not run the script as root)
 - sudo bash screen-scrypt.sh (in tuto youtube, i launch the scrypt with root... it does not matter)
@@ -72,6 +72,6 @@ There will be several wallets already in yiimp. These have nothing to do with th
 If you need further assistance we have a small but growing discord channel at https://discord.gg/zcCXjkQ
 
 If this helped you or you feel giving please donate : 
-- BTC Donation : 1C1hnjk3WhuAvUN6Ny6LTxPD3rwSZwapW7
-- BCH Donation : 1PqjApUdjwU9k4v1RDWf6XveARyEXaiGUz
-- ETH Donation : 0xc23E6902fF8Cd8878EDADE18Dc49B3505395F0a1
+- PayPal: [paypal.me/aanwhs](https://www.paypal.me/aanwhs)
+- Bitcoin: [1AanWHSKhWLcKDVp64jWuRmkKEtrecXaFa](https://www.blockchain.com/btc/address/1AanWHSKhWLcKDVp64jWuRmkKEtrecXaFa)
+- Ethereum: [0xb8d0fe65dadaec3b2d8b3d62594c502649e7826c](https://etherscan.io/address/0xb8d0fe65dadaec3b2d8b3d62594c502649e7826c)
